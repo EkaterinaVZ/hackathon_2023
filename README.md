@@ -2,7 +2,7 @@
 # Автоматизация обработки машиночитаемых документов
 
 ## Команда "Умный байт"
-![alt text](![image](https://user-images.githubusercontent.com/80875367/213297436-7ae1e1ac-8a73-4306-9926-c93156da2c39.png))
+![alt text](![image](https://user-images.githubusercontent.com/80875367/213297807-06381eae-8e06-413b-adcc-16c677176938.png)))
 
 
 ### Состав команды:
